@@ -7,4 +7,4 @@ Creating a new branch is quick and simple.
 =======
 Creating a new branch is quick and simple.
 >>>>>>> feature
-add a line
+add a line for bug
